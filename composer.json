@@ -13,7 +13,7 @@
   "require": {
     "magento/framework": "*",
     "magento/module-catalog": "*",
-    "php": "^7.1"
+    "php": "^7.1|^8.0"
   },
   "autoload": {
     "psr-4": {
